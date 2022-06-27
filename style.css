@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Alex+Brush&family=Black+Ops+One&family=Creepster&family=Gwendolyn&family=Roboto:wght@100;300;400;500;700&family=Smooch&display=swap");
+
+* {
+	font-family: "Roboto", sans-serif;
+}
+
+h1 {
+	font-weight: 700 !important;
+}
+
+.text-warning {
+	color: #ff6a00 !important;
+}
+.bg-warning {
+	background-color: #ff6a00 !important;
+}
+
+.btn {
+	border-radius: 80px !important;
+}
+
+.btn-warning {
+	background: #ff6a00 !important;
+	border-radius: 80px !important;
+	color: #fff !important;
+	padding: 14px 28px;
+	margin-top: 10px;
+	border-radius: 80px !important;
+}
+
+.btn-outline-warning {
+	color: #ff6a00 !important;
+	border: 1px solid #ff6a00 !important;
+	border-radius: 80px !important;
+}
+
+.btn-outline-warning:hover {
+	background: #ff6a00 !important;
+	color: white !important;
+}
+
+.section-top-margin {
+	margin-top: 104px;
+}
+
+/* header style */
+header nav .container a {
+	display: block;
+}
+
+header nav .container a h3 {
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	display: inline-block;
+}
+
+/* style shoot-demo section */
+.shoot-demo img {
+	width: 260px;
+	height: 260px;
+}
+
+/* style brand-show section */
+.brand-show p {
+	padding: 0;
+	margin: 0;
+}
+
+/* style services section */
+.services .card-container .card .number {
+	height: 85px;
+	width: 85px;
+	border-radius: 50%;
+	background: #e6efff;
+}
+.services .card-container .card-2 .number {
+	background: #ffefe6;
+}
+
+.services .card-container .card-3 .number {
+	background: #e5faed;
+}
+
+/* style testimonial section */
+.testimonial .img-container img {
+	width: 28.44px;
+	height: 50.78px;
+}
+.testimonial .img img {
+	width: 100%;
+}
+
+/* style package section */
+.package {
+	background: #f7fcf9;
+}
+.package .card-1 {
+	background: #e6efff;
+}
+.package .card-2 {
+	background: #ffefe6;
+}
+.package .card-3 {
+	background: #e5faed;
+}
+
+/* style services-2 section */
+.services-2 {
+	background: #fafcff;
+}
+
+.services-2 .row-1 {
+	background: #e6efff;
+	border-radius: 16px;
+}
+.services-2 .row-2 {
+	background: #e5faed;
+	border-radius: 16px;
+}
+
+.services-2 .row img {
+	height: 314px;
+	width: 314px;
+}
